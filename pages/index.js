@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
         <p>Hello, I am David Mundell.</p>
         <p>
           I am pleased to inform you that I have successfully created a blog
-          using <strong>Next.JS</strong> while learning the technology. it was a
+          using <strong>Next.JS</strong> while learning the technology. It was a
           great learning experience and I am excited to continue exploring its
           capabilities.
         </p>
